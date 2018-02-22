@@ -1,0 +1,17 @@
+missing module named resource - imported by posix, D:\private\python\python code\working with databases\bookstore\frontend.py
+missing module named posix - imported by os, D:\private\python\python code\working with databases\bookstore\frontend.py
+missing module named _posixsubprocess - imported by subprocess, D:\private\python\python code\working with databases\bookstore\frontend.py
+missing module named org - imported by pickle, D:\private\python\python code\working with databases\bookstore\frontend.py
+missing module named readline - imported by cmd, code, pdb, D:\private\python\python code\working with databases\bookstore\frontend.py
+excluded module named _frozen_importlib - imported by importlib, importlib.abc, D:\private\python\python code\working with databases\bookstore\frontend.py
+missing module named _frozen_importlib_external - imported by importlib._bootstrap, importlib, importlib.abc, D:\private\python\python code\working with databases\bookstore\frontend.py
+missing module named _winreg - imported by platform, D:\private\python\python code\working with databases\bookstore\frontend.py
+missing module named _scproxy - imported by urllib.request
+missing module named java - imported by platform, D:\private\python\python code\working with databases\bookstore\frontend.py
+missing module named 'java.lang' - imported by platform, D:\private\python\python code\working with databases\bookstore\frontend.py, xml.sax._exceptions
+missing module named vms_lib - imported by platform, D:\private\python\python code\working with databases\bookstore\frontend.py
+missing module named termios - imported by tty, D:\private\python\python code\working with databases\bookstore\frontend.py, getpass
+missing module named grp - imported by shutil, tarfile, D:\private\python\python code\working with databases\bookstore\frontend.py
+missing module named 'org.python' - imported by copy, D:\private\python\python code\working with databases\bookstore\frontend.py, xml.sax
+missing module named pwd - imported by posixpath, shutil, tarfile, http.server, webbrowser, D:\private\python\python code\working with databases\bookstore\frontend.py, netrc, getpass
+missing module named _dummy_threading - imported by dummy_threading, D:\private\python\python code\working with databases\bookstore\frontend.py
